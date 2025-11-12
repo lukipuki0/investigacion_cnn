@@ -1,0 +1,36 @@
+Training Log
+=============
+Epoch 1/24, Training Loss: 0.3910, Validation Loss: 0.3322, Validation Accuracy: 85.34%
+Epoch 2/24, Training Loss: 0.3366, Validation Loss: 0.3013, Validation Accuracy: 86.92%
+Epoch 3/24, Training Loss: 0.3238, Validation Loss: 0.2869, Validation Accuracy: 87.69%
+Epoch 4/24, Training Loss: 0.2906, Validation Loss: 0.2937, Validation Accuracy: 86.63%
+Epoch 5/24, Training Loss: 0.2845, Validation Loss: 0.2812, Validation Accuracy: 87.74%
+Epoch 6/24, Training Loss: 0.2682, Validation Loss: 0.2901, Validation Accuracy: 87.16%
+Epoch 7/24, Training Loss: 0.2478, Validation Loss: 0.3117, Validation Accuracy: 86.92%
+Epoch 8/24, Training Loss: 0.2314, Validation Loss: 0.3111, Validation Accuracy: 87.84%
+Epoch 9/24, Training Loss: 0.2162, Validation Loss: 0.2522, Validation Accuracy: 88.94%
+Epoch 10/24, Training Loss: 0.1755, Validation Loss: 0.2579, Validation Accuracy: 89.62%
+Epoch 11/24, Training Loss: 0.1745, Validation Loss: 0.2423, Validation Accuracy: 89.71%
+Epoch 12/24, Training Loss: 0.1240, Validation Loss: 0.2990, Validation Accuracy: 89.23%
+Epoch 13/24, Training Loss: 0.0936, Validation Loss: 0.2781, Validation Accuracy: 89.86%
+Epoch 14/24, Training Loss: 0.0910, Validation Loss: 0.2584, Validation Accuracy: 90.19%
+Epoch 15/24, Training Loss: 0.0578, Validation Loss: 0.2822, Validation Accuracy: 90.62%
+Epoch 16/24, Training Loss: 0.0323, Validation Loss: 0.2891, Validation Accuracy: 90.24%
+Epoch 17/24, Training Loss: 0.0274, Validation Loss: 0.3268, Validation Accuracy: 89.18%
+Epoch 18/24, Training Loss: 0.0350, Validation Loss: 0.3492, Validation Accuracy: 89.52%
+Epoch 19/24, Training Loss: 0.0379, Validation Loss: 0.2982, Validation Accuracy: 90.87%
+Epoch 20/24, Training Loss: 0.0187, Validation Loss: 0.3428, Validation Accuracy: 91.25%
+Epoch 21/24, Training Loss: 0.0095, Validation Loss: 0.3918, Validation Accuracy: 90.58%
+Epoch 22/24, Training Loss: 0.0117, Validation Loss: 0.3499, Validation Accuracy: 91.25%
+Epoch 23/24, Training Loss: 0.0033, Validation Loss: 0.4082, Validation Accuracy: 91.20%
+Epoch 24/24, Training Loss: 0.0114, Validation Loss: 0.3791, Validation Accuracy: 89.86%
+
+Final Results
+Final Average Validation Loss: 0.3089
+Final Average Validation Accuracy: 89.10%
+Recall: 0.8910, Specificity: 0.8940, F1 Score: 0.8910, AUC: 0.8910
+Total Execution Time: 00:03:16 (hh:mm:ss)
+
+Confusion Matrix:
+[[22315  2645]
+ [ 2797 22163]]
