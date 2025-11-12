@@ -1,0 +1,32 @@
+Training Log
+=============
+Epoch 1/20, Training Loss: 0.3789, Validation Loss: 0.3478, Validation Accuracy: 84.38%
+Epoch 2/20, Training Loss: 0.3252, Validation Loss: 0.3203, Validation Accuracy: 85.87%
+Epoch 3/20, Training Loss: 0.3062, Validation Loss: 0.2945, Validation Accuracy: 86.78%
+Epoch 4/20, Training Loss: 0.2729, Validation Loss: 0.2693, Validation Accuracy: 88.08%
+Epoch 5/20, Training Loss: 0.2602, Validation Loss: 0.2863, Validation Accuracy: 88.08%
+Epoch 6/20, Training Loss: 0.2264, Validation Loss: 0.2710, Validation Accuracy: 88.22%
+Epoch 7/20, Training Loss: 0.1832, Validation Loss: 0.3321, Validation Accuracy: 85.96%
+Epoch 8/20, Training Loss: 0.1508, Validation Loss: 0.3221, Validation Accuracy: 87.64%
+Epoch 9/20, Training Loss: 0.1132, Validation Loss: 0.2891, Validation Accuracy: 89.57%
+Epoch 10/20, Training Loss: 0.0798, Validation Loss: 0.4374, Validation Accuracy: 86.25%
+Epoch 11/20, Training Loss: 0.0522, Validation Loss: 0.3871, Validation Accuracy: 88.99%
+Epoch 12/20, Training Loss: 0.0478, Validation Loss: 0.3644, Validation Accuracy: 89.71%
+Epoch 13/20, Training Loss: 0.0385, Validation Loss: 0.3698, Validation Accuracy: 89.90%
+Epoch 14/20, Training Loss: 0.0342, Validation Loss: 0.3776, Validation Accuracy: 89.71%
+Epoch 15/20, Training Loss: 0.0231, Validation Loss: 0.4040, Validation Accuracy: 90.77%
+Epoch 16/20, Training Loss: 0.0608, Validation Loss: 0.3598, Validation Accuracy: 88.99%
+Epoch 17/20, Training Loss: 0.0208, Validation Loss: 0.3884, Validation Accuracy: 90.29%
+Epoch 18/20, Training Loss: 0.0145, Validation Loss: 0.4261, Validation Accuracy: 90.14%
+Epoch 19/20, Training Loss: 0.0125, Validation Loss: 0.4427, Validation Accuracy: 90.53%
+Epoch 20/20, Training Loss: 0.0094, Validation Loss: 0.4464, Validation Accuracy: 90.05%
+
+Final Results
+Final Average Validation Loss: 0.3568
+Final Average Validation Accuracy: 88.50%
+Recall: 0.8850, Specificity: 0.8874, F1 Score: 0.8850, AUC: 0.8850
+Total Execution Time: 00:04:36 (hh:mm:ss)
+
+Confusion Matrix:
+[[18458  2342]
+ [ 2444 18356]]
